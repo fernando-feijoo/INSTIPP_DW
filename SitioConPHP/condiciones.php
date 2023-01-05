@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Documento sin título</title>
+<title>Condiciones PHP</title>
 </head>
 <body>
 	<?php
