@@ -1,0 +1,10 @@
+Cuarto Semestre es una tienda de venta de articulos de primera necesidad en linea, tiene por politicas de la empresa:
+- Si la compra es menor a 20 dolares, se cobra una tarifa adicional de 1,50 dolares.
+- Si la compra es menor a 20 dolares y se adquiere alcohol, el recargo es de 5 dolares.
+- Si la compra es mayor a 20 dolares, no existe recargo.
+- Si la compra es mayor a 40 dolares y son licores o cigarrillos, no existira recargo en envios, y no existira descuentos, si
+no son licores ni cigarrillos, la venta tendra un 5% de descuento del total a facturar.
+- Si la compra es mayor a 100 dolares y es de viveres y hortalizas, tendra un 10% de descuento, pero cobrara un recargo de 5 
+dolares por transporte, si son bebids alcoholicas o cigarrillos, este tendra un 10% de descuento en el valor total y no se cobrara
+transporte.
+
